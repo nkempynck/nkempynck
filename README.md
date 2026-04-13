@@ -8,9 +8,8 @@ My main focus is understanding how gene regulation works at the sequence level, 
 
 ## Research
 
-- **[CREsted](https://github.com/aertslab/CREsted)** — A Python package for training sequence-based deep learning models on scATAC-seq data, capturing enhancer grammar and designing synthetic regulatory sequences. Published in [*Nature Methods*](https://www.nature.com/articles/s41592-026-03057-2).
-- **[CREsted-paper](https://github.com/aertslab/CREsted-paper)** — Notebooks and scripts to reproduce all analyses from the CREsted manuscript, organized by figure (mouse cortex, human PBMCs, cancer, zebrafish enhancer design).
-- **[DeepBrain](https://github.com/aertslab/DeepBrain)** — Usage of deep learning models for predicting cell type-specific enhancer activity across vertebrate brain regions (mouse, human, chicken). Underlying the [brain evolution study](https://press.vib.be/a-new-view-on-300-million-years-of-brain-evolution) comparing mammalian and avian gene regulation.
+- **[CREsted](https://github.com/aertslab/CREsted)** — A Python package for training sequence-based deep learning models on scATAC-seq data, capturing enhancer grammar and designing synthetic regulatory sequences. Published in [*Nature Methods*](https://www.nature.com/articles/s41592-026-03057-2). Reproducibility notebooks in [CREsted-paper](https://github.com/aertslab/CREsted-paper).
+- **[DeepBrain](https://github.com/aertslab/DeepBrain)** — Pre-trained enhancer models for mouse, human, and chicken brain, used in [*Enhancer-driven cell type comparison reveals similarities between the mammalian and bird pallium*](https://www.science.org/doi/10.1126/science.adp3957) (*Science*, 2025).
 
 ---
 
