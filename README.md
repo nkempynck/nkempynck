@@ -1,4 +1,4 @@
-# Hi, I'm Niklas
+# Hello
 
 I'm a PhD researcher at [VIB-KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293) in the [Aerts lab](https://aertslab.org), where I work at the intersection of **computational biology**, **deep learning**, and **genomics**.
 
