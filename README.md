@@ -18,14 +18,8 @@ My main focus is understanding how gene regulation works at the sequence level, 
 | Project | What it does |
 |---|---|
 | [citemap](https://github.com/nkempynck/citemap) | Visualize the citation network of any researcher using the OpenAlex API — no login, no scraping |
-| [natuurpunt-calendar](https://github.com/nkempynck/natuurpunt-calendar) | Auto-updating ICS calendar feed of Natuurpunt nature walks, with a self-healing AI fallback when the scraper breaks |
 | [selfhealing-agent](https://github.com/nkempynck/selfhealing-agent) | Python package for AI agents that write, run, and auto-repair scripts using Claude — minimizing API cost by reusing working scripts |
 
----
-
-## Stack
-
-`Python` · `Keras` · `scATAC-seq` · `bioinformatics` · `Claude API`
 
 ---
 
