@@ -1,8 +1,6 @@
 # Hello
 
-I'm a PhD researcher at [VIB-KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293) in the [Aerts lab](https://aertslab.org), where I work at the intersection of **computational biology**, **deep learning**, and **genomics**.
-
-My main focus is understanding how gene regulation works at the sequence level, building and applying models that predict and design cell type-specific enhancers across tissues and species, focused on the mammalian brain.
+I'm a PhD researcher at [VIB-KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293) in the [Aerts lab](https://aertslab.org), where I work on gene regulation/genomics. My main focus is understanding how gene regulation works at the sequence level, building and applying sequence models that predict and design cell type-specific enhancers across tissues and species, focused on the mammalian brain.
 
 ---
 
