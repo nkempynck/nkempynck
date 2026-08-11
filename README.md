@@ -1,6 +1,6 @@
 # Hello
 
-I'm a PhD researcher at [VIB-KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293) in the [Aerts lab](https://aertslab.org), where I work on gene regulation/genomics. My main focus is understanding how gene regulation works at the sequence level, building and applying sequence models that predict and design cell type-specific enhancers across tissues and species, focused on the mammalian brain.
+I'm a PhD researcher at at VIB and KU Leuven in the [Aerts lab](https://aertslab.org), where I work on gene regulation/genomics. My main focus is understanding how gene regulation works at the sequence level, building and applying sequence models that predict and design cell type-specific enhancers across tissues and species, focused on the mammalian brain.
 
 ---
 
@@ -15,10 +15,11 @@ I'm a PhD researcher at [VIB-KU Leuven](https://www.kuleuven.be/wieiswie/en/pers
 
 | Project | What it does |
 |---|---|
-| [citemap](https://github.com/nkempynck/citemap) | Visualize the citation network of any researcher using the OpenAlex API — no login, no scraping |
-| [selfhealing-agent](https://github.com/nkempynck/selfhealing-agent) | Python package for AI agents that write, run, and auto-repair scripts using Claude — minimizing API cost by reusing working scripts |
+| [grebe](https://github.com/nkempynck/grebe) A little passion project on [daily puzzle games around the tree of life.](https://grebegames.com/) |
+| [citemap](https://github.com/nkempynck/citemap) | Visualize the citation network of any researcher using the OpenAlex API. |
+| [selfhealing-agent](https://github.com/nkempynck/selfhealing-agent) | Python package for AI agents that write, run, and auto-repair scripts using Claude, minimizing API cost by reusing working scripts. |
 
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/niklas-kempynck-775178188/) · [Google Scholar](https://scholar.google.com/citations?user=u3ooblkAAAAJ&hl=en) · [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293)
+[LinkedIn](https://www.linkedin.com/in/niklas-kempynck-775178188/) ; [Google Scholar](https://scholar.google.com/citations?user=u3ooblkAAAAJ&hl=en) ; [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00132293)
