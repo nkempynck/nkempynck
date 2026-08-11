@@ -15,7 +15,7 @@ I'm a PhD researcher at at VIB and KU Leuven in the [Aerts lab](https://aertslab
 
 | Project | What it does |
 |---|---|
-| [grebe](https://github.com/nkempynck/grebe) A little passion project on [daily puzzle games around the tree of life.](https://grebegames.com/) |
+| [grebe](https://github.com/nkempynck/grebe) | A little passion project on [daily puzzle games around the tree of life.](https://grebegames.com/) |
 | [citemap](https://github.com/nkempynck/citemap) | Visualize the citation network of any researcher using the OpenAlex API. |
 | [selfhealing-agent](https://github.com/nkempynck/selfhealing-agent) | Python package for AI agents that write, run, and auto-repair scripts using Claude, minimizing API cost by reusing working scripts. |
 
